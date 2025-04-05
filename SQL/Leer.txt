@@ -1,0 +1,5 @@
+Aqui en esta carpeta debera ir todos los script relacionados al Proyecto.
+
+**** EJM *****
+
+script_leer_reportes_ventas_segun_forma_pago.sql
